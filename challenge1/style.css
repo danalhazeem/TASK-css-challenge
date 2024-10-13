@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@400;700&display=swap");
+
+body {
+  background-color: indigo;
+}
+.image {
+  width: 300px;
+  height: 300px;
+}
+.imageborder {
+  color: white;
+  border: solid 1px;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.Titleborder {
+  color: white;
+  border: solid 1px;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.Title {
+  text-align: center;
+  font-family: Qwitcher Grypen;
+  color: white;
+}
+.Title1 {
+  text-align: center;
+  font-family: Qwitcher Grypen;
+  color: white;
+}
